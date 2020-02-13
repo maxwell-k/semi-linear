@@ -61,3 +61,8 @@ better automated solution within [bors-ng] has [been discussed].
 [description]: https://devblogs.microsoft.com/devops/pull-requests-with-rebase/
 [not rocket science]: https://graydon.livejournal.com/186550.html
 [github community post]: https://gitlab.freedesktop.org/dbus/dbus/issues/231
+
+---
+
+[![Bors enabled](https://bors.tech/images/badge_small.svg)](https://app.bors.tech/repositories/23202)
+[![REUSE status](https://api.reuse.software/badge/github.com/maxwell-k/semi-linear)](https://api.reuse.software/info/github.com/maxwell-k/semi-linear)
