@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: semi-linear
+Upstream-Contact: Keith Maxwell <keith.maxwell@gmail.com>
+Source: https://github.com/maxwell-k/semi-linear
+
+Files: README.md
+Copyright: 2019 Keith Maxwell <keith.maxwell@gmail.com>
+License: CC-BY-SA-4.0
+
+Files: .github/workflows/semi-linear.yaml bors.toml
+Copyright: 2020 Keith Maxwell <keith.maxwell@gmail.com>
+License: MPL-2.0
